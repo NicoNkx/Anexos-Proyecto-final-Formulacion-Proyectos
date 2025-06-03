@@ -82,6 +82,47 @@ También creemos que este tipo de proyectos abren una posibilidad importante par
 
 En resumen: el sistema de transporte en Pasto tiene muchas cosas por mejorar, y aunque este documento no es una solución definitiva, sí es un punto de partida. Sirve como base para seguir investigando, desarrollando prototipos, buscando alianzas o incluso presionando un poco más desde la universidad para que se tomen decisiones, sin llegar al punto de protestas agresivas donde los mismos medios de transporte (buses) se vean afectados.
 
+## Visualizaciones del diagnóstico
+
+A continuación se presentan algunas imágenes extraídas del material base entregado por el profesor, que resumen el estado actual del transporte público en Pasto desde diferentes perspectivas:
+
+### 1. Cómo nos movemos en Pasto
+![Cómo nos movemos en Pasto](Imagenes/Como%20nos%20movemos%20en%20Pasto.png)
+
+---
+
+### 2. Evaluación del servicio
+![Evaluación del servicio](Imagenes/Evaluacion%20del%20servicio.png)
+
+---
+
+### 3. Evolución del sistema
+![Evolución](Imagenes/Evolucion.png)
+
+---
+
+### 4. Gasto promedio en transporte
+![Gasto promedio](Imagenes/Gasto%20promedio.png)
+
+---
+
+### 5. Distribución por tipo de medio de transporte
+![Pastel de medio de transporte](Imagenes/Pastel%20de%20medio%20de%20transporte.png)
+
+---
+
+### 6. Problemas específicos identificados
+![Problemas específicos](Imagenes/ProblemaEspecificos.png)
+
+---
+
+### 7. Problemas generales identificados
+![Problemas generales](Imagenes/Problemas%20generales.png)
+
+---
+
+### 8. Proyecciones de impacto o crecimiento
+![Proyecciones](Imagenes/Proyecciones.png)
 
 
 ### Fuentes y referencias consultadas
